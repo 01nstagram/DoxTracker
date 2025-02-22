@@ -27,7 +27,7 @@ Requests, BeautifulSoup, and other dependencies
 Setup
 
 # Clone the repository
-git clone https://github.com/yourusername/DoxTracker.git
+git clone https://github.com/01nstagram/DoxTracker.git
 cd DoxTracker
 
 
